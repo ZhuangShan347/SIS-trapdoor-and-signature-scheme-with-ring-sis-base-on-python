@@ -10,7 +10,7 @@ This code is freely available for public use, and when used, please cite:
   author = {Zhuang Shan},  
   title = {SIS trapdoor and signature scheme with ring-sis base on python},
   year = {2024},  
-  url = {https://github.com/ZhuangShan347/SIS-trapdoor-and-signature-scheme-with-ring-sis-base-on-python},  
+  url = {https://github.com/ZhuangShan347/SIS-trapdoor-and-signature-scheme-with-ring-sis-base-on-python.git},  
 }
 
 # 基于python实现SIS陷门以及ring-sis签名方案
@@ -24,5 +24,5 @@ This code is freely available for public use, and when used, please cite:
   author = {单壮},  
   title = {基于python实现SIS陷门以及ring-sis签名方案},
   year = {2024},  
-  url = {https://github.com/ZhuangShan347/SIS-trapdoor-and-signature-scheme-with-ring-sis-base-on-python},  
+  url = {https://github.com/ZhuangShan347/SIS-trapdoor-and-signature-scheme-with-ring-sis-base-on-python.git},  
 }
