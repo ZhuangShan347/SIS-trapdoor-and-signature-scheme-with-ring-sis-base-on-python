@@ -40,6 +40,9 @@ def polynomial_to_vector(poly, message, m, n, modulo_poly):
         
         value = multiply_polynomials_mod(poly[i], message, modulo_poly)
 
+        while len(value) < m:
+            value.append(0)
+
         for j in value:
 
             if value[j] > 1:
